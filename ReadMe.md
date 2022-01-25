@@ -10,7 +10,7 @@ There is a line above
      - koyberta
 
 this is a [link](https:google.com) and this is a [^footnote]
-The subscript~now~ is used for superscript in^now^
+The subscript~now~ is used for superscript in^now
 
 and also as a task list
 - [ ] First
